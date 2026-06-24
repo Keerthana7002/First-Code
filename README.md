@@ -1,2 +1,2 @@
 # First-Code
-My First GitHub Repo. 1st year CS student learning Python
+I am Keerthana S,1st year CS student,learning Python GitHub Basics.
